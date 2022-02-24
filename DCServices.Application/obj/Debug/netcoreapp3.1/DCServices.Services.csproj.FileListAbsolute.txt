@@ -1,0 +1,16 @@
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\DCServices.Data.exe
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\DCServices.Services.deps.json
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\DCServices.Services.dll
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\DCServices.Services.pdb
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\DCServices.Data.dll
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\bin\Debug\netcoreapp3.1\DCServices.Data.pdb
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\obj\Debug\netcoreapp3.1\DCServices.Services.csprojAssemblyReference.cache
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\obj\Debug\netcoreapp3.1\DCServices.Services.AssemblyInfoInputs.cache
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\obj\Debug\netcoreapp3.1\DCServices.Services.AssemblyInfo.cs
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\obj\Debug\netcoreapp3.1\DCServices.Services.csproj.CoreCompileInputs.cache
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\obj\Debug\netcoreapp3.1\DCServices.Services.csproj.CopyComplete
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\obj\Debug\netcoreapp3.1\DCServices.Services.dll
+D:\KLTN\DCServices\DCServices.API\DCServices.Application\obj\Debug\netcoreapp3.1\DCServices.Services.pdb
